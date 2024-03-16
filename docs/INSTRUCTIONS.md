@@ -1,7 +1,7 @@
 
-# Lose Your Head - Content First
+# Content First
 
-Analyseer de content stuctuur van de bestaande website(s) van de opdrachtgever en schets het datamodel. Voeg waar nodig ook de content structuur van nog toe te voegen content.
+Analyseer de content stuctuur van de bestaande website(s) van de opdrachtgever en schets het datamodel. 
 
 ## Context
 
